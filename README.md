@@ -1,2 +1,2 @@
 # teste
-projetos em aprendizado e testes
+projetos em aprendizado
